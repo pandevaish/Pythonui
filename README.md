@@ -1,4 +1,4 @@
-PyConChat
+#PyConChat
 ============================
 ***Py**thon **Con**sole **Chat** - A Python chat application featuring group conversations, file sharing and offline messaging.*
 
