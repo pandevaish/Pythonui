@@ -3,7 +3,7 @@ import threading
 import pickle;;;;;;;;;;
 import sys
 
-state = {}
+state = {} hiiii
 
 def serverListen(serverSocket):
 	while True:
